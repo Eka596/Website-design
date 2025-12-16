@@ -3,6 +3,8 @@
 ## Overview
 
 ## Design Focus
+- UI design
+- Consistent visual style
 
 ## Pages
 - home
