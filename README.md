@@ -32,6 +32,12 @@ and consistent visual style across all pages.
 - PHP, MySQL
 - JavaScript
 
+## What I Learned
+- Designing multi-page interfaces
+- Maintaining consistency across layouts
+- Creating user-friendly navigation
+- Working with real product structure
+
 ## Screenshots
 
 ### Authentication
