@@ -35,7 +35,7 @@ and consistent visual style across all pages.
 ## Screenshots
 
 ### Authentication
-![Website preview](images/start_page.png)
+![Start page](images/start_page.png)
 ![Website preview](images/log_in_page.png)
 ![Website preview](images/sign_in_page.png)
 
