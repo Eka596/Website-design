@@ -40,3 +40,6 @@
 ![Website preview](images/about_page.png)
 ![Website preview](images/contacts_page.png)
 ![Website preview](images/privacy_policy_page.png)
+
+### Pages
+<img src="images/home_page_user.png" alt="Home page" width="700">
