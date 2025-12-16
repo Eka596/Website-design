@@ -36,20 +36,20 @@ and consistent visual style across all pages.
 
 ### Authentication
 ![Start page](images/start_page.png)
-![Website preview](images/log_in_page.png)
-![Website preview](images/sign_in_page.png)
+![Log in](images/log_in_page.png)
+![Sign in](images/sign_in_page.png)
 
 ### Home Page
-![Website preview](images/home_page_admin.png)
-![Website preview](images/home_page_user.png)
-![Website preview](images/home_page_bottom1.png)
-![Website preview](images/home_page_bottom2.png)
+![Home page](images/home_page_admin.png)
+![Home page](images/home_page_user.png)
+![Home page](images/home_page_bottom1.png)
+![Home page](images/home_page_bottom2.png)
 
 ### Product & Cart
-![Website preview](images/product_page.png)
-![Website preview](images/cart.png)
+![Product](images/product_page.png)
+![Cart](images/cart.png)
 
 ### Static Pages
-![Website preview](images/about_page.png)
-![Website preview](images/contacts_page.png)
-![Website preview](images/privacy_policy_page.png)
+![About](images/about_page.png)
+![Contacts](images/contacts_page.png)
+![Privacy policy](images/privacy_policy_page.png)
