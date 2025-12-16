@@ -26,4 +26,15 @@
 - JavaScript
 
 ## Screenshots
-
+![Website preview](images/start_page.png)
+![Website preview](images/log_in_page.png)
+![Website preview](images/sing_in_page.png)
+![Website preview](images/home_page_admin.png)
+![Website preview](images/home_page_user.png)
+![Website preview](images/home_page_bottom1.png)
+![Website preview](images/home_page_bottom2.png)
+![Website preview](images/product_page.png)
+![Website preview](images/cart.png)
+![Website preview](images/about_page.png)
+![Website preview](images/contacts_page.png)
+![Website preview](images/privacy_policy_page.png)
