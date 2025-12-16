@@ -28,7 +28,7 @@
 ## Screenshots
 ![Website preview](Images/start_page.png)
 ![Website preview](Images/log_in_page.png)
-![Website preview](Images/sing_in_page.png)
+![Website preview](Images/sign_in_page.png)
 ![Website preview](Images/home_page_admin.png)
 ![Website preview](Images/home_page_user.png)
 ![Website preview](Images/home_page_bottom1.png)
