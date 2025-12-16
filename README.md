@@ -46,10 +46,10 @@ and consistent visual style across all pages.
 ![Sign in](images/sign_in_page.png)
 
 ### Home Page
-![Home page](images/home_page_admin.png)
-![Home page](images/home_page_user.png)
-![Home page](images/home_page_bottom1.png)
-![Home page](images/home_page_bottom2.png)
+![Admin](images/home_page_admin.png)
+![User](images/home_page_user.png)
+![Main](images/home_page_bottom1.png)
+![Main + Footer](images/home_page_bottom2.png)
 
 ### Product & Cart
 ![Product](images/product_page.png)
