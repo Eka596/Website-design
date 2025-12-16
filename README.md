@@ -60,9 +60,7 @@ and consistent visual style across all pages.
 ![Contacts](images/contacts_page.png)
 ![Privacy policy](images/privacy_policy_page.png)
 
-## Video
-
+## Demo Video
 <video width="600" controls>
   <source src="videos/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
